@@ -110,7 +110,7 @@ export default function ControlCenterMenu({
           </div>
           <div className="flex flex-col pt-0.5">
             <span className="font-medium leading-4">AirDrop</span>
-            <span className="cc-text">{airdrop ? "Contacts Only" : "Off"}</span>
+            <span className="cc-text">{airdrop ? "Solo contactos" : "Off"}</span>
           </div>
         </div>
       </div>
